@@ -18,6 +18,7 @@ It uses **Python**, **SQLite**, and **SQLAlchemy ORM** for storing and managing 
 ---
 
 ## Project Structure
+```
 fintrack_pro/
 │
 ├── app.py # Main CLI program
@@ -33,7 +34,7 @@ fintrack_pro/
 │ └── search.py # Search operations
 │
 └── requirements.txt
-
+```
 
 ---
 
